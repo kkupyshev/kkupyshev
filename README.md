@@ -1,6 +1,5 @@
 ## Привет! 👋
 
-Этот репозиторий служит для пет-проектов
 
 <!--
 **kkupyshev/kkupyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
