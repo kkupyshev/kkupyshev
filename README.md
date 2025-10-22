@@ -1,6 +1,6 @@
 ## Привет! 👋
 
-📂 Репозиторий: [github.com/username/sa-projects](https://github.com/username/sa-projects)
+📂 Репозиторий: [github.com/kkupyshev/sa-projects](https://github.com/kkupyshev/sa-projects)
 
 <!--
 **kkupyshev/kkupyshev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
